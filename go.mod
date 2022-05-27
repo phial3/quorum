@@ -11,7 +11,7 @@ require (
 	github.com/Azure/azure-storage-blob-go v0.7.0
 	github.com/BurntSushi/toml v0.3.1
 	github.com/ConsenSys/quorum-qlight-token-manager-plugin-sdk-go v0.0.0-20220427130631-ecd75caa6e73
-	github.com/VictoriaMetrics/fastcache v1.5.7
+	github.com/VictoriaMetrics/fastcache v1.10.0
 	github.com/aws/aws-sdk-go v1.25.48
 	github.com/btcsuite/btcd v0.20.1-beta
 	github.com/cespare/cp v0.1.0
@@ -32,7 +32,7 @@ require (
 	github.com/go-stack/stack v1.8.1
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
-	github.com/golang/snappy v0.0.3-0.20201103224600-674baa8c7fc3
+	github.com/golang/snappy v0.0.4
 	github.com/google/gofuzz v1.1.1-0.20200604201612-c04b05f3adfa
 	github.com/google/uuid v1.1.5
 	github.com/gorilla/websocket v1.5.0
