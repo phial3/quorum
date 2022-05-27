@@ -13,7 +13,7 @@ require (
 	github.com/ConsenSys/quorum-qlight-token-manager-plugin-sdk-go v0.0.0-20220427130631-ecd75caa6e73
 	github.com/VictoriaMetrics/fastcache v1.5.7
 	github.com/aws/aws-sdk-go v1.25.48
-	github.com/btcsuite/btcd v0.20.1-beta
+	github.com/btcsuite/btcd v0.22.1
 	github.com/cespare/cp v0.1.0
 	github.com/cloudflare/cloudflare-go v0.10.2-0.20190916151808-a80f83b9add9
 	github.com/consensys/gurvy v0.3.8
